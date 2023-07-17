@@ -1,5 +1,6 @@
-## Cache Simulator
+# Cache Simulator
 
-# To run
+## To run
 make
+
 ./cache-sim
